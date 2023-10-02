@@ -22,6 +22,8 @@ Admin can change the state of any order i.e, PROCESSING / SHIPPED / DELIVERED
 TO RUN THE PROJECT ---
 Make sure your device has node.js version 6
 
+Open frontend folder and type -- npm i
+
 Open the folder - SHOPIE then do following steps - 
 Step 1 - To start the backend, in the terminal type ----> npm run dev 
 Step 2 - To start front end, start another terminal and go to frontend folder by typing --> cd frontend
