@@ -27,7 +27,7 @@ Open frontend folder and type -- npm i
 
 NOTE -- In the directory 
 shopie/backend/config/config.env   
-In config.env file please change all the variable with your own variables to run the project
+In config.env file please change all the variable with your own variables to run the project.
 The email and password for admin login are -
 Email- abc@gmail.com
 Password -password
