@@ -20,7 +20,7 @@ Admin can change the state of any order i.e, PROCESSING / SHIPPED / DELIVERED
 
 
 TO RUN THE PROJECT ---
-Make sure your device has node.js version 16
+Make sure your device has node.js version 18
 
 Open frontend folder and type -- npm i
 
